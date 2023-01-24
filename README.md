@@ -1,4 +1,4 @@
-# qc-problem-set
+## Write python code for the following
 
 1. Normalize a given state vector.
 
